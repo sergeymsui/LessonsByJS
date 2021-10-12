@@ -1,3 +1,3 @@
 # JS lessons
 
-## Практика современного JS (https://learn.javascript.ru/)
+Практика современного JS (https://learn.javascript.ru/)
