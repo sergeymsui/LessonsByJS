@@ -6,4 +6,16 @@
 
 // Сборка мусора
 
+let user = {
+    name: "John"
+}
 
+let admin = user
+
+console.log(user)
+console.log(admin)
+
+admin.name = "LOL"
+
+console.log(user)
+console.log(admin)
